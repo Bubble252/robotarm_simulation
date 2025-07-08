@@ -1,0 +1,33 @@
+[0.419s] Invoking command in '/home/ubuntu/桌面/arm/ros2_ws2/src/ur3_description': PYTHONPATH=/home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur3_description build --build-base /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build install --record /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/install.log --single-version-externally-managed install_data
+[0.574s] running egg_info
+[0.574s] creating ../../build/ur3_description/ur3_description.egg-info
+[0.574s] writing ../../build/ur3_description/ur3_description.egg-info/PKG-INFO
+[0.575s] writing dependency_links to ../../build/ur3_description/ur3_description.egg-info/dependency_links.txt
+[0.575s] writing entry points to ../../build/ur3_description/ur3_description.egg-info/entry_points.txt
+[0.575s] writing requirements to ../../build/ur3_description/ur3_description.egg-info/requires.txt
+[0.575s] writing top-level names to ../../build/ur3_description/ur3_description.egg-info/top_level.txt
+[0.575s] writing manifest file '../../build/ur3_description/ur3_description.egg-info/SOURCES.txt'
+[0.576s] reading manifest file '../../build/ur3_description/ur3_description.egg-info/SOURCES.txt'
+[0.576s] writing manifest file '../../build/ur3_description/ur3_description.egg-info/SOURCES.txt'
+[0.576s] running build
+[0.577s] running build_py
+[0.577s] creating /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build
+[0.577s] creating /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build/lib
+[0.577s] creating /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build/lib/ur3_description
+[0.577s] copying ur3_description/__init__.py -> /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build/lib/ur3_description
+[0.577s] running install
+[0.577s] running install_lib
+[0.577s] creating /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages/ur3_description
+[0.578s] copying /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build/lib/ur3_description/__init__.py -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages/ur3_description
+[0.578s] byte-compiling /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages/ur3_description/__init__.py to __init__.cpython-310.pyc
+[0.578s] running install_data
+[0.578s] creating /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ament_index
+[0.578s] creating /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ament_index/resource_index
+[0.578s] creating /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ament_index/resource_index/packages
+[0.578s] copying resource/ur3_description -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ament_index/resource_index/packages
+[0.578s] copying package.xml -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description
+[0.578s] running install_egg_info
+[0.579s] Copying ../../build/ur3_description/ur3_description.egg-info to /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages/ur3_description-0.0.0-py3.10.egg-info
+[0.580s] running install_scripts
+[0.592s] writing list of installed files to '/home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/install.log'
+[0.603s] Invoked command in '/home/ubuntu/桌面/arm/ros2_ws2/src/ur3_description' returned '0': PYTHONPATH=/home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur3_description build --build-base /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build install --record /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/install.log --single-version-externally-managed install_data

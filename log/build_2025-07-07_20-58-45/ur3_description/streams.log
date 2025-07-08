@@ -1,0 +1,31 @@
+[0.402s] Invoking command in '/home/ubuntu/桌面/arm/ros2_ws2/src/ur3_description': PYTHONPATH=/home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur3_description build --build-base /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build install --record /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/install.log --single-version-externally-managed install_data
+[0.565s] running egg_info
+[0.566s] writing ../../build/ur3_description/ur3_description.egg-info/PKG-INFO
+[0.566s] writing dependency_links to ../../build/ur3_description/ur3_description.egg-info/dependency_links.txt
+[0.566s] writing entry points to ../../build/ur3_description/ur3_description.egg-info/entry_points.txt
+[0.566s] writing requirements to ../../build/ur3_description/ur3_description.egg-info/requires.txt
+[0.566s] writing top-level names to ../../build/ur3_description/ur3_description.egg-info/top_level.txt
+[0.568s] reading manifest file '../../build/ur3_description/ur3_description.egg-info/SOURCES.txt'
+[0.568s] writing manifest file '../../build/ur3_description/ur3_description.egg-info/SOURCES.txt'
+[0.569s] running build
+[0.569s] running build_py
+[0.569s] running install
+[0.569s] running install_lib
+[0.570s] running install_data
+[0.570s] copying launch/display.launch.py -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/launch
+[0.570s] creating /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/urdf
+[0.570s] copying urdf/ur3.urdf -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/urdf
+[0.570s] creating /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.570s] copying meshes/link6.STL -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.571s] copying meshes/link1.STL -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.572s] copying meshes/link2.STL -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.573s] copying meshes/link4.STL -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.574s] copying meshes/base_link.STL -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.574s] copying meshes/link3.STL -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.575s] copying meshes/link5.STL -> /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/share/ur3_description/meshes
+[0.576s] running install_egg_info
+[0.577s] removing '/home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages/ur3_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.577s] Copying ../../build/ur3_description/ur3_description.egg-info to /home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages/ur3_description-0.0.0-py3.10.egg-info
+[0.578s] running install_scripts
+[0.590s] writing list of installed files to '/home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/install.log'
+[0.602s] Invoked command in '/home/ubuntu/桌面/arm/ros2_ws2/src/ur3_description' returned '0': PYTHONPATH=/home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/桌面/arm/ros2_ws2/install/ur3_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ur3_description build --build-base /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/build install --record /home/ubuntu/桌面/arm/ros2_ws2/build/ur3_description/install.log --single-version-externally-managed install_data
